@@ -30,3 +30,6 @@ Third-Party Libraries
 Design Decisions
 * List View: Uses full-width horizontal cells to display detailed information.
 * Grid View: Displays larger thumbnails in a grid layout with additional information alongside each thumbnail.
+
+Screenshots
+* Screenshots available on Screenshot folder.
