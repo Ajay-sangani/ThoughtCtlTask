@@ -1,0 +1,6 @@
+framework module Pods_ThoughtCtlTask {
+  umbrella header "Pods-ThoughtCtlTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
